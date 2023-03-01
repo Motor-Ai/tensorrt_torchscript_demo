@@ -1,0 +1,7 @@
+setup.py
+bev_pool_forward.egg-info/PKG-INFO
+bev_pool_forward.egg-info/SOURCES.txt
+bev_pool_forward.egg-info/dependency_links.txt
+bev_pool_forward.egg-info/top_level.txt
+src/bev_pool.cpp
+src/bev_pool_cuda.cu
