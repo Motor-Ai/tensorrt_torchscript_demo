@@ -15,8 +15,19 @@ Before we dive further into specifics, we must first get our system ready.
     ```
     git clone https://github.com/sanket-perception/tensorrt_torchscript_demo.git
     ```
+3. Now we need to download the compatible LibTorch distribution. You can always grab the latest stable release from the [download](https://pytorch.org/) page on the PyTorch website. If you download and unzip the latest archive, you should receive a folder with the following directory structure:
 
-
+    ```
+    libtorch/
+      bin/
+      include/
+      lib/
+      share/
+    ```
+4. Now download the sample data files `x.pt` and `geom.pt` from Leitz Cloud from the following links :
+    ```
+     https://web.leitz-cloud.com/shares/folder/4KJnqqmfwvb/?folder_id=147
+    ```
 
 ## B. Optimizing Classification Model in ONNX + TensorRT
 
