@@ -24,7 +24,7 @@ Before we dive further into specifics, we must first get our system ready.
       lib/
       share/
     ```
-4. Now download the sample data files `x.pt` and `geom.pt` from Leitz Cloud from the following links :
+4. Now download the sample data files `x.pt` and `geom.pt` from Leitz Cloud from the following links and save them in `data` directory :
     ```
      https://web.leitz-cloud.com/shares/folder/4KJnqqmfwvb/?folder_id=147
     ```
