@@ -13,7 +13,7 @@ Before we dive further into specifics, we must first get our system ready.
 2. Then, clone the repository locally :
 
     ```
-    git clone https://github.com/sanket-perception/tensorrt_torchscript_demo.git
+    git clone https://github.com/Motor-Ai/tensorrt_torchscript_demo
     ```
 3. Now we need to download the compatible LibTorch distribution. You can always grab the latest stable release from the [download](https://pytorch.org/) page on the PyTorch website. If you download and unzip the latest archive, you should receive a folder with the following directory structure:
 
