@@ -2,4 +2,11 @@ libtorch/*
 data/geom.pt
 data/x.pt
 
-
+data/*
+*.tar.xz
+*.engine
+*.onnx
+.ipynb_checkpoints/
+__pycache__/
+*.pth
+notebooks_mfdd/*
